@@ -1,0 +1,15 @@
+!gradle/wrapper/gradle-wrapper.jar
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.gradle
+.springBeans
+
+build
+bin
+logs
+backup
+
