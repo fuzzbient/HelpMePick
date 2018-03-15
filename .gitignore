@@ -7,9 +7,16 @@
 .settings
 .gradle
 .springBeans
+.idea
+.git
+.vscode
 
 build
 bin
 logs
 backup
+node_modules
+platforms
+plugins
+hooks
 
